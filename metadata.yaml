@@ -1,5 +1,8 @@
 _repo: Childhood-in-literature-and-art-with-some-observations-on-literature-for-children-b-A-study_75367
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75367-h/images/cover.jpg
 creator:
   author:
     agent_name: Scudder, Horace Elisha
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3446
     wikipedia: https://en.wikipedia.org/wiki/Horace_Scudder
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75367#Childhood-in-literature-and-art-with-some-observations-on-literature-for-children-b-A-study
 gutenberg_issued: '2025-02-13'
 gutenberg_type: Text
 identifiers:
